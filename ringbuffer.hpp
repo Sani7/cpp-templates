@@ -103,6 +103,11 @@ public:
         return n;
     }
 
+    void clear(void)
+    {
+        memset(buffer, 0, sizeof(T) * size);
+    }
+
 private:
     T * buffer;
     size_t size;
