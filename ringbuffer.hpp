@@ -2,6 +2,7 @@
   A simple ring buffer implementation as C++ template.
   
   Copyright (c) 2011 Hannes Flicka
+  Copyright (c) 2023 Sander Speetjens
   Licensed under the terms of the MIT license (given below).
   
   Permission is hereby granted, free of charge, to any person obtaining a copy
